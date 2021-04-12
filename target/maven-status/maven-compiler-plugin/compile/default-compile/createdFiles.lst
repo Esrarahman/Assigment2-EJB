@@ -1,0 +1,6 @@
+com\ejb\assigment\services\StoreEJB.class
+com\ejb\assigment\model\Store.class
+com\ejb\assigment\model\Inventory.class
+com\ejb\assigment\services\InventoryService.class
+com\ejb\assigment\services\InventoryEJB.class
+com\ejb\assigment\services\StoreService.class
